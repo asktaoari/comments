@@ -1,0 +1,11 @@
+﻿{
+  "origins": [
+    "https://asktaoari.github.io",
+    "https://miaomi.vip",
+    "http://localhost:4000"
+  ],
+  "originsRegex": [
+    "http://127\\.0\\.0\\.1:\\d+"
+  ],
+  "defaultCommentOrder": "newest"
+}
